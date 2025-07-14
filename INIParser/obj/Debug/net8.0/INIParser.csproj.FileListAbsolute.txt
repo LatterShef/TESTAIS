@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\bin\Debug\net8.0\INIParser.deps.json
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\bin\Debug\net8.0\INIParser.dll
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\bin\Debug\net8.0\INIParser.pdb
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.sourcelink.json
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.dll
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\refint\INIParser.dll
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\INIParser.pdb
+C:\Users\User\Documents\GitHub\TESTAIS\INIParser\obj\Debug\net8.0\ref\INIParser.dll
